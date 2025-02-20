@@ -1,10 +1,5 @@
-# README
+# Force.com Sites Usage Reporting
 
-A repo containing all the basic file templates and general guidelines for any open source project at Salesforce.
+Source code for the following AppExchange listing: https://appexchange.salesforce.com/appxListingDetail?listingId=a0N30000001SUEwEAO
 
-## Usage
-
-It's required that all files must be placed at the top level of your repository.
-
-> **NOTE** Your README should contain detailed, useful information about the project!
-
+This package contains a collection of dashboards, reports, and report types.
